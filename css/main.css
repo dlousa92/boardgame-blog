@@ -79,6 +79,7 @@ article p img {
   height: 500px;
   width: 60%;
   float: right;
+  margin-top: -2.9em;
 }
 
 .post-header {
@@ -86,6 +87,7 @@ article p img {
   flex-direction: row;
   justify-content: center;
   width: 40%;
+  margin-top: 5em;
 }
 
 .title {
