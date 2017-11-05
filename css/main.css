@@ -21,7 +21,7 @@ nav {
   color: whitesmoke;
   padding-top: .5em;
   padding-bottom: .5em;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0a0809+19,6e7774+100 */
+  /* Permalink - use to edit: http://colorzilla.com/gradient-editor/#0a0809+19,6e7774+100 */
   background: #0a0809; /* Old browsers */
   background: -moz-linear-gradient(-45deg, #0a0809 19%, #6e7774 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(-45deg, #0a0809 19%,#6e7774 100%); /* Chrome10-25,Safari5.1-6 */
@@ -80,7 +80,7 @@ article p img {
   height: 500px;
   width: 60%;
   float: right;
-  margin-top: -6.2em;
+  margin-top: -5em;
 }
 
 .post-header {
@@ -100,5 +100,9 @@ article p img {
 
 .content {
   padding-top: 2em;
+  font-size: 1.3em;
 }
 
+.publish  {
+  font-size: .7em;
+}
