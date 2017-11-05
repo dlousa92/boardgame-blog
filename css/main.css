@@ -50,3 +50,7 @@ a {
 a:visited {
   color: whitesmoke;
 }
+
+a:hover {
+  text-decoration: underline;
+}
