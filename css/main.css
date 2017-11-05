@@ -7,6 +7,7 @@
 body {
   width: 90%;
   margin: 0 auto;
+  background-color: rgb(245, 243, 243);
 }
 
 nav {
@@ -15,10 +16,15 @@ nav {
   align-items: center;
   width:  100%;
   font-family: 'Patua One', serif;
-  background-color: rgb(19, 17, 17);
   color: whitesmoke;
   padding-top: 1em;
   padding-bottom: 1em;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0a0809+19,6e7774+100 */
+  background: #0a0809; /* Old browsers */
+  background: -moz-linear-gradient(-45deg, #0a0809 19%, #6e7774 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(-45deg, #0a0809 19%,#6e7774 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(135deg, #0a0809 19%,#6e7774 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0a0809', endColorstr='#6e7774',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
 nav > ul {
