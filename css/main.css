@@ -46,6 +46,10 @@ a {
   text-decoration: none;
 }
 
+a:before {
+  color: whitesmoke;
+}
+
 a:visited {
   color: whitesmoke;
 }
