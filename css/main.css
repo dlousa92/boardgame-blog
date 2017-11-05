@@ -13,16 +13,13 @@ nav {
   display: flex;
   justify-content: space-between;
   width:  100%;
+  font-family: 'Patua One', serif;
 }
 
 nav > ul {
   display: flex;
   justify-content: space-between;
   width: 30%;
-}
-
-h1 {
-  font-family: 'Patua One', serif;
 }
 
 li {
