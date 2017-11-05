@@ -12,10 +12,13 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   width:  100%;
   font-family: 'Patua One', serif;
   background-color: rgb(19, 17, 17);
   color: whitesmoke;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 nav > ul {
@@ -24,8 +27,13 @@ nav > ul {
   width: 30%;
 }
 
+h1 {
+  padding-left: 1em;
+}
+
 li {
   list-style-type: none;
+  padding-right: 1em;
 }
 
 a {
