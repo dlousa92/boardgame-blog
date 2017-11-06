@@ -73,8 +73,9 @@ a:hover {
 }
 
 article p img {
+  display: block;
   height: 500px;
-  width: 60%;
+  width: 700px;
   float: right;
   margin-top: -5.5em;
   padding-left: 1.5em;
