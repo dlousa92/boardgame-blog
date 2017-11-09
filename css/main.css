@@ -133,4 +133,11 @@ footer {
   display: flex;
   align-items: center;
   flex-direction: column;
+  padding: 0em 1em 0em 1em;
+}
+
+.img {
+  opacity: 0.6;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
 }
