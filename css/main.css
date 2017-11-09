@@ -109,8 +109,9 @@ article p img {
 }
 
 .icons img {
-  height: 2em;
-  width: 2em;
+  height: 3em;
+  width: 3em;
+  padding-top: .5em;
 }
 
 footer {
@@ -133,7 +134,7 @@ footer {
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 0em 1em 0em 1em;
+  padding: 0em 2em 0em 1em;
 }
 
 .img {
