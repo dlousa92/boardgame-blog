@@ -117,6 +117,7 @@ article p img {
 footer {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-family: 'Indie Flower', cursive;
   padding: 1em 0em 1em 0em;
   margin-top: 2em;
@@ -143,6 +144,6 @@ footer {
   -webkit-filter: grayscale(100%);
 }
 
-#copyright {
-  margin-bottom: .5em;
+.contact {
+  text-align: center;
 }
