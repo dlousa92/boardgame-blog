@@ -119,7 +119,9 @@ footer {
   font-family: 'Indie Flower', cursive;
   padding: 1em 0em 1em 0em;
   margin-top: 1em;
-  border-top: 2px dashed black;
+  border-top: 1px solid rgba(39, 39, 39, 0.568);
+  background-image: url("../img/diagonal-fabric.png");
+  color: rgb(86, 85, 85);
 }
 
 .icons {
