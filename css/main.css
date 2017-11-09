@@ -142,3 +142,7 @@ footer {
   filter: grayscale(100%);
   -webkit-filter: grayscale(100%);
 }
+
+#copyright {
+  margin-bottom: .5em;
+}
