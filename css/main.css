@@ -108,7 +108,7 @@ article p img {
   font-size: .7em;
 }
 
-.icons {
+.icons > img {
   height: 2em;
   width: 2em;
 }
