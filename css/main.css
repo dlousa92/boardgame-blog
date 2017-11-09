@@ -135,7 +135,7 @@ footer {
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 0em 2em 0em 1em;
+  padding: 0em .5em 0em .5em;
 }
 
 .img {
@@ -146,4 +146,6 @@ footer {
 
 .contact {
   text-align: center;
+  position: relative;
+  left: 3em;
 }
