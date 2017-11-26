@@ -151,3 +151,7 @@ footer {
   position: relative;
   left: 3em;
 }
+
+#copyright {
+  margin-left: 1em;
+}
